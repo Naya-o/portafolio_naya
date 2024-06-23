@@ -237,7 +237,7 @@
         /* *********************/
         
         .contenedor-skills {
-           /*  background: /*linear-gradient( #eb5a5acc, rgba(33, 16, 16, 0.0))*/ url('img/mar1.webp'); */
+           /*  background: /*linear-gradient( #eb5a5acc, rgba(33, 16, 16, 0.0))*/ url:('img/mar1.webp'); */
             background-attachment: fixed;/*MOVIMIENTO SOLO IMAGEN DE ARRIVA*/
             background-repeat: no-repeat;
             background-size: cover;
